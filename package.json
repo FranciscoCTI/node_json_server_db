@@ -1,0 +1,14 @@
+{
+  "name": "proyectojsonserver",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendizaje pequeño servidor",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Francisco Contreras",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

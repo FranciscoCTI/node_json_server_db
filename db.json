@@ -1,0 +1,133 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "Node JS desde cero"
+        },
+        {
+          "nombre": "HTML5 desde cero"
+        },
+        {
+          "nombre": "OOP desde cero"
+        }
+      ],
+      "id": "62f8"
+    },
+    {
+      "nombre": "Francisco",
+      "apellido": "Contreras",
+      "materias": [
+        {
+          "nombre": "Revit API desde cero"
+        }
+      ],
+      "id": "cc7d"
+    },
+    {
+      "id": "60ad",
+      "nombre": "Isabel",
+      "apellido": "Contreras",
+      "materias": [
+        {
+          "nombre": "Teatro"
+        },
+        {
+          "nombre": "zumba"
+        },
+        {
+          "nombre": "patinaje"
+        }
+      ]
+    },
+    {
+      "id": "cb5f",
+      "nombre": "Isabel",
+      "apellido": "Contreras",
+      "materias": [
+        {
+          "nombre": "Teatro"
+        },
+        {
+          "nombre": "zumba"
+        },
+        {
+          "nombre": "patinaje"
+        }
+      ]
+    },
+    {
+      "nombre": "Juanita",
+      "apellido": "Contreras",
+      "materias": [
+        {
+          "nombre": "Teatro"
+        },
+        {
+          "nombre": "zumba"
+        },
+        {
+          "nombre": "patinaje"
+        },
+        {
+          "nombre": "castellano"
+        }
+      ],
+      "id": "0dd9"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "e7c2"
+    },
+    {
+      "nombre": "Gabriela",
+      "apellido": "Mistral",
+      "promedio": 5.5,
+      "id": "a79b"
+    },
+    {
+      "nombre": "Pablo",
+      "apellido": "Neruda",
+      "promedio": 4.3,
+      "id": "0037"
+    },
+    {
+      "nombre": "Nicanor",
+      "apellido": "Parra",
+      "promedio": 3.7,
+      "id": "97b9"
+    },
+    {
+      "id": "123",
+      "nombre": "Roberto",
+      "apellido": "Ampuero",
+      "promedio": 7
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "d128"
+    },
+    {
+      "nombre": "HTML5 desde cero",
+      "duracion": 6,
+      "dificultad": "avanzada",
+      "id": "8302"
+    },
+    {
+      "nombre": "OOP desde cero",
+      "duracion": 4,
+      "dificultad": "intermedia",
+      "id": "2199"
+    }
+  ]
+}
